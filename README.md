@@ -44,3 +44,5 @@ storage, data transfer between modules, and communication systems.
 - Clocked sequential logic
 - Memory and pointer management
 - Functional simulation and verification
+
+## Link 🔗 - https://www.edaplayground.com/x/BxqD
