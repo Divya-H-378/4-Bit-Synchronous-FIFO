@@ -25,7 +25,7 @@ containing 4 bits of data.
 ## Project Files
 - `design.sv` - FIFO RTL design
 - `testbench.sv` - Simulation testbench
-- `screenshots` - Simulation logs and waveform evidence
+- `screenshots/` - Simulation logs and waveform evidence
 
 ## How to Run
 1. Open EDA Playground.
